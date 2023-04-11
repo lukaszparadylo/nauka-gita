@@ -1,3 +1,9 @@
-body {
-    background: red;
+
+.container {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.songText {
+    text-align: justify;
 }
