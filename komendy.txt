@@ -1,0 +1,8 @@
+.htmlvalidate.json -->
+{
+  "rules": {
+    "some-rules": "error",
+    "other-rule": ["severity", { "option": true }]
+  }
+}
+npm exec html-validate index.html

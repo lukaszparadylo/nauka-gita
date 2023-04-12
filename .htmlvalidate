@@ -1,0 +1,9 @@
+{
+  "extends": ["html-validate:recommended"]
+}
+{
+  "rules": {
+    "some-rules": "error",
+    "other-rule": ["severity", { "option": true }]
+  }
+}
